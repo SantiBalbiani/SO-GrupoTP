@@ -1,0 +1,10 @@
+iniciar 45.cod;
+escribir 0 "hola";
+escribir 1 "como";
+escribir 2 "andas";
+escribir 3 "todo";
+escribir 4 "bien?";
+leer 0;
+leer 1;
+leer 2;
+finalizar;

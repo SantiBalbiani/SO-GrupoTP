@@ -1,0 +1,8 @@
+iniciar 35;
+escribir 0 "hola";
+escribir 1 "como";
+escribir 2 "andas";
+leer 0;
+leer 1;
+leer 2;
+finalizar;

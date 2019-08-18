@@ -1,0 +1,12 @@
+iniciar 5;
+escribir 0 "primero";
+escribir 1 "segundo";
+escribir 2 "tercero";
+escribir 3 "cuarto";
+escribir 4 "quinto";
+leer 0;
+leer 1;
+leer 2;
+leer 3;
+leer 4;
+finalizar;

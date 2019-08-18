@@ -1,0 +1,14 @@
+iniciar 5;
+leer 0;
+escribir 0 "uno";
+leer 0;
+escribir 0 "dos";
+leer 0;
+escribir 0 "tres";
+leer 0;
+leer 1;
+escribir 1 "cuatro";
+leer 1;
+escribir 1 "cinco";
+leer 1;
+finalizar;

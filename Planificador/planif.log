@@ -1,0 +1,90 @@
+[INFO] 03:04:34:342 Planificador/(27172:27172): Configuracion dada de alta
+[INFO] 03:04:35:523 Planificador/(27172:27174): CPU conectada
+[INFO] 03:04:38:751 Planificador/(27172:27177): Comienza: mProc: 1 mem.cod.
+[INFO] 03:04:38:753 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:38:755 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:38:756 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:38:757 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:40:767 Planificador/(27172:27174): mProc 1 - Iniciado.
+[INFO] 03:04:40:769 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:40:770 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:40:770 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:40:772 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:44:784 Planificador/(27172:27174): mProc 1 - Pagina 2 escrita: dos.
+[INFO] 03:04:44:786 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:44:789 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:44:790 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:44:791 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:46:797 Planificador/(27172:27174): mProc 1 - Pagina 2 leida: dos.
+[INFO] 03:04:46:798 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:46:798 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:46:798 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:46:798 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:50:808 Planificador/(27172:27174): mProc 1 - Pagina 3 escrita: tres.
+[INFO] 03:04:50:809 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:50:810 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:50:810 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:50:810 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:52:817 Planificador/(27172:27174): mProc 1 - Pagina 2 leida: dos.
+[INFO] 03:04:52:818 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:52:819 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:52:821 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:52:821 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:56:831 Planificador/(27172:27174): mProc 1 - Pagina 1 escrita: uno.
+[INFO] 03:04:56:832 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:56:833 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:56:833 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:56:834 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:04:58:839 Planificador/(27172:27174): mProc 1 - Pagina 1 leida: uno.
+[INFO] 03:04:58:841 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:04:58:841 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:04:58:842 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:04:58:842 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:02:353 Planificador/(27172:27174): mProc 1 - Pagina 5 escrita: cinco.
+[INFO] 03:05:02:357 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:02:358 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:02:359 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:02:360 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:04:371 Planificador/(27172:27174): mProc 1 - Pagina 2 leida: dos.
+[INFO] 03:05:04:375 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:04:378 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:04:379 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:04:380 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:07:903 Planificador/(27172:27174): mProc 1 - Pagina 4 escrita: cuatro.
+[INFO] 03:05:07:904 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:07:905 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:07:905 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:07:905 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:09:911 Planificador/(27172:27174): mProc 1 - Pagina 5 leida: cinco.
+[INFO] 03:05:09:913 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:09:913 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:09:913 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:09:913 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:13:925 Planificador/(27172:27174): mProc 1 - Pagina 3 leida: tres.
+[INFO] 03:05:13:927 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:13:928 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:13:928 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:13:930 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:17:440 Planificador/(27172:27174): mProc 1 - Pagina 2 escrita: dos.
+[INFO] 03:05:17:441 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:17:442 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:17:442 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:17:443 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:19:455 Planificador/(27172:27174): mProc 1 - Pagina 5 leida: cinco.
+[INFO] 03:05:19:457 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:19:458 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:19:460 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:19:461 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:21:469 Planificador/(27172:27174): mProc 1 - Pagina 2 leida: dos.
+[INFO] 03:05:21:470 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:21:470 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:21:471 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:21:471 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:23:477 Planificador/(27172:27174): mProc 1 en entrada-salida de tiempo 20.
+[INFO] 03:05:43:480 Planificador/(27172:27175): mProc elegido para ejecutar: mProc: 1 mem.cod.
+[INFO] 03:05:43:481 Planificador/(27172:27175): Listos: Vacia.
+[INFO] 03:05:43:482 Planificador/(27172:27175): Bloqueados: Vacia.
+[INFO] 03:05:43:482 Planificador/(27172:27175): Ejecutando: mProc: 1 mem.cod.
+[INFO] 03:05:45:497 Planificador/(27172:27174): mProc 1 - Finalizado.
+[INFO] 03:05:45:497 Planificador/(27172:27174): Tiempo de EJECUCION: 48.724 segundos, Tiempo de RESPUESTA: 45.727 segundos, Tiempo de ESPERA: 0.014 segundos.
+[INFO] 03:05:45:497 Planificador/(27172:27174): Finaliza: mProc: 1 mem.cod.
